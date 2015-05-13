@@ -58,6 +58,7 @@ ponyd serve --listen-interface=127.0.0.1
 ```
 
 一切正确将看到如下页面：
+![image](https://raw.githubusercontent.com/JasonWorking/Articles/master/localhost.png)
 
 
 2. iOS客户端安装
@@ -157,13 +158,13 @@ Example:
 
 
 点击App进去就可以开始使用PD了. 
+![image](https://raw.githubusercontent.com/JasonWorking/Articles/master/connected.jpg)
+
+![image](https://raw.githubusercontent.com/JasonWorking/Articles/master/inside.jpg)
 
 
 
 
-
-
-附上PonyDebugger的[README](https://github.com/square/PonyDebugger/blob/master/README.md):
 
 
 
