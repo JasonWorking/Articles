@@ -40,4 +40,4 @@
 
 19. Method Swizzling的使用方法,并用其解决几个常见问题. 
 
-20. 使用Method Swizzling的弊端
+20. [使用Method Swizzling的弊端](https://github.com/JasonWorking/Articles/blob/master/Articles/Danger%20of%20Method%20Swizzling.md)
