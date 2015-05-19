@@ -62,6 +62,7 @@
 
 
 #### Hybrid/ Semi-hybrid 
+---
 1. BeeFramework 
 2. Samurai
 3. React Native 
