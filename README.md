@@ -45,6 +45,8 @@
 4. iConsole
 5. Log: CocoaLumberjack
 6. lldb: Chisel
+7. 代码绘制图形: PaintCode
+8. CodeInventor
 
 #### CrashLog,App安全
 ---
