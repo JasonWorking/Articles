@@ -19,11 +19,15 @@
 ---
 1. [NSDictionary类簇实现](https://github.com/JasonWorking/Articles/blob/master/Articles/Class-Cluster-NSDictionary.md) 
 
+2. 实现弱引用的NSArray/NSMutableArray（non-retaining NSArry/NSMutableArray）
+
+
 
 #### 内存管理、多线程
 ---
 1. dealloc在哪个线程执行
 2. NSNotification跨线程发送和接收通知.
+
 
 
 #### Runtime 
@@ -74,6 +78,10 @@
 
 2. SDWebImage源码解析 
 
+3. BeeFramework 源码解析
+
+
+
 
 #### 奇技淫巧
 ---
@@ -87,7 +95,7 @@
 ---
 
 1.  [常见字符编码方式的由来](https://github.com/JasonWorking/Articles/blob/master/Articles/ASCII-Unicode-UTF8.md)
-2.  编译、链接
+2.  《程序员的自我修养》－ 编译、链接
 
 
 
