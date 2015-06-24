@@ -1,7 +1,7 @@
 ### Dealloc 在哪个线程执行[^1]
 ---
 
-###1. 如果是一道选择题，那么有可能的选择是[^1]：
+###1. 如果是一道选择题，那么有可能的选择是：
 
 > A. 所有对象的dealloc方法会在主线程调用
 > B. 一个对象的dealloc方法会在分配该对象的线程被调用
@@ -84,4 +84,4 @@
 
 
 
-[^1]:[@CarinaT](https://github.com/CarinaTT)在电话面试时问过我这个问题. 
+[^1]:感谢[@CarinaT](https://github.com/CarinaTT).
