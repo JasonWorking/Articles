@@ -45,7 +45,7 @@
 ```
 
 
-####2. 这种写法的来源: GNU C 
+####2. 这种写法的来源: [GNU C](https://gcc.gnu.org/onlinedocs/gcc/Statement-Exprs.html) 
 
 
 摘自https://gcc.gnu.org/onlinedocs/gcc/Statement-Exprs.html :
