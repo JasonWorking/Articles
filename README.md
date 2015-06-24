@@ -27,7 +27,6 @@
 ---
 1. dealloc在哪个线程执行
 
-
 2. NSNotification跨线程发送和接收通知.
 
 3. AutoreleasePool 与 runloop . 
