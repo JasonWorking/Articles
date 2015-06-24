@@ -30,7 +30,7 @@
 
 2. NSNotification跨线程发送和接收通知.
 
-
+3. AutoreleasePool 与 runloop . 
 
 #### Runtime 
 ---
