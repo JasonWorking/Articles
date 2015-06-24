@@ -25,7 +25,7 @@
 
 #### 内存管理、多线程
 ---
-1. dealloc在哪个线程执行
+1. [dealloc在哪个线程执行](https://github.com/JasonWorking/Articles/blob/master/Articles/Dealloc.md)
 
 2. NSNotification跨线程发送和接收通知.
 

@@ -81,7 +81,7 @@
 ###2. 在 [@Matt Galloway](https://twitter.com/mattjgalloway) 的《Effective Objective-C 2.0》中（page164）对这个问题有描述：
 
 *Also, the dealloc method is called on the thread in which the final release that caused the retain count to zero occurred.* 
----
 
 
-[^1]:[@CarinaT](https://github.com/CarinaTT)在一次电话面试时问过我这个问题. 
+
+[^1]:[@CarinaT](https://github.com/CarinaTT)在电话面试时问过我这个问题. 
