@@ -7,7 +7,7 @@
 > B. 一个对象的dealloc方法会在分配该对象的线程被调用
 > C. 一个对象的dealloc方法会在该对象的引用计数变为0的线程被调用
 
-一小段代码便可以试出答案[^1]：
+一小段代码便可以试出答案(thx to [@CarinaT](https://github.com/CarinaTT))：
 
 ```
 
