@@ -36,6 +36,8 @@
 1. OC runtime 的消息转发机制
 2. Method Swizzling的使用方法,并用其解决几个常见问题. 
 3. [使用Method Swizzling的弊端](https://github.com/JasonWorking/Articles/blob/master/Articles/Danger%20of%20Method%20Swizzling.md)
+4. 深入理解category
+5. Associated object 实现原理
 
 #### Tools 
 ---
