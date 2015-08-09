@@ -10,9 +10,7 @@
 
 3. [子View在父view的外部时的点击事件处理实例.](https://github.com/JasonWorking/Articles/blob/master/Articles/Touch-events-outside.md)
 
-4. 在viewDidLoad中执行[self.view addSubview:view1.1]时self.view为何会连续layout两次
-
-5. 实现自定义UINavigationController的转场动画(iOS6+)
+4. [实现自定义UINavigationController的转场动画(iOS6+)](https://github.com/JasonWorking/GTNavigationController)
 
 
 #### Foundation
