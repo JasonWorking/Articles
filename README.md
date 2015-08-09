@@ -8,7 +8,7 @@
 
 2. [证明UIViewController的ViewDidLoad和ViewWillAppear在同一个Event loop中](https://github.com/JasonWorking/Articles/blob/master/Articles/viweDidLoad-viewWillAppear-in-one-event-loop.md)
 
-3. 子View在父view的外部时的点击事件处理实例.
+3. [子View在父view的外部时的点击事件处理实例.](http://)
 
 4. 在viewDidLoad中执行[self.view addSubview:view1.1]时self.view为何会连续layout两次
 
