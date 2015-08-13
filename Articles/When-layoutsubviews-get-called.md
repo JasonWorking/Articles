@@ -27,7 +27,7 @@ Type: post
 ####2 视图关系:
 
 * View0 – UIView class, root view for examples(ViewController's primary view)
-* View1 – UIScrollView class, subview of View1
+* View1 – UIScrollView class, subview of View0
 * View1.1 – UIView class, subview of View1 (No autoresize mask)
 * View1.2 – UIView class, another subview of View1 (Autoresize mask – flexible width)
 
