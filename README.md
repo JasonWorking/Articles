@@ -92,7 +92,7 @@
 2. [CGRect、CGPoint等的写法](https://github.com/JasonWorking/Articles/blob/master/Articles/CGSize-CGPoint.md)
 3. [不需要复用的代码块](https://github.com/JasonWorking/Articles/blob/master/Articles/Little-code-block.md)
 4. [Fucking clang warning](https://github.com/JasonWorking/Articles/blob/master/Articles/fucking-clang-warnings.md) 
-5. 善用lldb
+5. [常用lldb、Xcode调试Tips](https://github.com/JasonWorking/Articles/blob/master/Articles/common-debug-tips.md)
 6. 分享SDK是如何实现的
 
 #### C/C++,算法,数据结构等
