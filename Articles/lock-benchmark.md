@@ -43,8 +43,8 @@ iPhone6 plus上输出结果:
 
 大致整理一下:
 
-| 加解锁方式   | 耗时(ns)  | 备注|
-|---|---|
+| 加解锁方式   | 耗时(ns)  |
+|---|---:|
 | NSConditionLock	| 442	|
 | @synchronized	| 291	|
 | NSRecursiveLock	| 186	|
